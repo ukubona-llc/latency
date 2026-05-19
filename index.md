@@ -2422,7 +2422,7 @@ with survival determined by:
 
 
 # Anthropic
-xAI/Sensation -> Google/Attention -> OpenAI/Intention -> Anthropic/Reaction (eigenmode) -> Ukubona/Action
+`xAI/Sensation → Google/Attention → OpenAI/Intention → Anthropic/Reaction → Ukubona/Action`
 
 ---
 
