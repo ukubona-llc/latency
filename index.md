@@ -2447,8 +2447,8 @@ The thing that makes the latency point land hardest: in standard SGD, you can ta
 Session 3 should probably be where the question framing lives — PECO-F, geographic explicitness, equity terms baked in — because that's where you're setting the *loss surface itself*. Wrong question = wrong gradient direction = fast travel to the wrong place.
 
 # Ukubona
-- xAI / Tensor
-- Google / Compressor Matrix
-- OpenAI / Vector
-- Anthropic / Eigenmode
-- Ukubona / Scalar
+- xAI / Tensor / InPatient / DailyTelemetry
+- Google / Compressor Matrix / OutPatient / Months
+- OpenAI / Vector / UrgentCare / Weeks
+- Anthropic / Eigenmode / EmergencyRoom / Hours
+- Ukubona / Scalar / FirstAid / Minutes
